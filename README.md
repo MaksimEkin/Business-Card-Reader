@@ -29,5 +29,6 @@ The image is modified to get better results from the image processing. Few forms
  - If you don't have GPU, you must comment out the line 110 so that it doesn't try to use your GPU.
  
 **Future Work**
+
 This is written to be part of a backend code for future projects. Current code is only good for testing. Improvements needed in the text classifier, and image processor. I plan to push the Flask API code which will use improved version of this code. 
  
